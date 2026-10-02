@@ -20,3 +20,4 @@ nbdist/
 # OS files
 .DS_Store
 Thumbs.db
+/lab3/nbproject/private/
